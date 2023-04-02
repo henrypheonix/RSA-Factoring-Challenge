@@ -1,4 +1,4 @@
-fndef _FACTOR_H_
+#ifndef _FACTOR_H_
 #define _FACTOR_H_
 
 
